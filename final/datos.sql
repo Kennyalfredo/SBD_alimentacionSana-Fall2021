@@ -1,4 +1,4 @@
-INSERT INTO USUARIO VALUES(1,"iabarcae@yahoo.es","ALEX","PERALTA","123456", 90.4 , 1.71 ,'2000-03-04' ,"Asma" ,30.9);
+INSERT INTO USUARIO VALUES(1,"iabarcae@yahoo.es","ALEXITO","PERALTA","123456", 90.4 , 1.71 ,'2000-03-04' ,"Asma" ,30.9);
 INSERT INTO USUARIO VALUES(2,"maeillanes@hotmail.com","ALEX","PENA","password", 90.4 , 1.71 ,'2000-04-30' ,"Asma",30.9);
 INSERT INTO USUARIO VALUES(3,"osabarca@hotmail.com","ALEXANDER","PENAFIEL" ,"123456789", 90.4 , 1.71 ,'2000-12-23' ,"Asma",30.9);
 INSERT INTO USUARIO VALUES(4,"cabrigo@garmendia.cl","ALEJANDRO","PITA","12345678", 90.4 , 1.71 ,'2000-05-22' ,"Asma",30.9);
