@@ -1,6 +1,6 @@
 INSERT INTO USUARIO VALUES(1,"iabarcae@yahoo.es","ALEX","PERALTA","123456", 90.4 , 1.71 ,'2000-03-04' ,"Asma" ,30.9);
 INSERT INTO USUARIO VALUES(2,"maeillanes@hotmail.com","ALEX","PENA","password", 90.4 , 1.71 ,'2000-04-30' ,"Asma",30.9);
-INSERT INTO USUARIO VALUES(3,"osabarca@hotmail.com","ALEXANDER","PENAFIEL" ,"123456789", 90.4 , 1.71 ,'2000-12-23' ,"Asma",30.9);
+ENSERT INTO USUARIO VALUES(3,"osabarca@hotmail.com","ALEXANDER","PENAFIEL" ,"123456789", 90.4 , 1.71 ,'2000-12-23' ,"Asma",30.9);
 INSERT INTO USUARIO VALUES(4,"cabrigo@garmendia.cl","ALEJANDRO","PITA","12345678", 90.4 , 1.71 ,'2000-05-22' ,"Asma",30.9);
 INSERT INTO USUARIO VALUES(5,"Sb.nashxo.sk8@hotmail.com","ALEJANDRO","PERALTA","12345", 98.4 , 1.72 ,'2000-07-29' ,"Enfisema",33.2);
 INSERT INTO USUARIO VALUES(6,"fran.afull@live.cl","CARLOS","CASTRO","1234567", 98.4 , 1.72 ,'1999-05-19',"Enfisema",33.2);
